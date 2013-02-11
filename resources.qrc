@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/bg.png</file>
+        <file>textures/bonus.png</file>
+        <file>textures/tank_body.png</file>
+        <file>textures/tank_cannon.png</file>
+        <file>textures/bullet.png</file>
+        <file>textures/rocket.png</file>
+        <file>textures/tank_body_dead.png</file>
+    </qresource>
+</RCC>
